@@ -2,7 +2,7 @@
 <p>Good to see you here, Hii I am currently pursuing a Bachlor's Degree in <strong>Computer Science</strong> from <strong>SIES College of Arts, Commerce and Science</strong>. Along with FullStack Webdevelopment course from <a traget="_blank" href="https://www.masaischool.com">Masai school</a>. As of now, I am focused on FullStack Web development but still, wish to explore many fields and new technology.</p>
 
 <h3 align="left">Portfolio:</h3>
- [Link To My PortFolio](https://pratham2002.github.io)
+ https://pratham2002.github.io
 
 
 <h3 align="left">Languages and Tools:</h3>
