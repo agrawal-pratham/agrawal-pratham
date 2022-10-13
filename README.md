@@ -13,7 +13,7 @@
 - ⚡ Fun fact **I think I am funny**
 <!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iNVQkLeIHWy71WNi3fxIxnWlSWvoWSzr/view?usp=sharing">Resume</a> -->
 
-- <a href=" https://pratham2002.github.io">Portfolio</a>
+- <a href="https://pratham2002.github.io">Portfolio</a>
 
 <!-- <img width="45%" align="top"  alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
 <h3 align="left">Languages and Tools:</h3>
