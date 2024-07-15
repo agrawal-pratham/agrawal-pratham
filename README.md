@@ -36,12 +36,12 @@
 <!-- <p align="left">
 <img width="90%" src="https://activity-graph.herokuapp.com/graph?username=pratham2002&theme=chartreuse-dark&no-frame=true" /></p> -->
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=pratham2002&theme=dark&date_format=j%20M%5B%20Y%5D" /><br\>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=pratham2002&show_icons=true&theme=onedark"/>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=agrawal-pratham&theme=dark&date_format=j%20M%5B%20Y%5D" /><br\>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=agrawal-pratham&show_icons=true&theme=onedark"/>
 </p>
 <br/>
 <p align="center">
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratham2002&langs_count=8" />
+   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=agrawal-pratham&langs_count=8" />
 </p>
 <p align="center">
   <img  src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg">
