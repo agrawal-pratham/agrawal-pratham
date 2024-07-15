@@ -4,16 +4,16 @@
 
 - 🌱 I’m currently learning **Google Cloud Platform, Graphql, Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [https://pratham2002.github.io](https://pratham2002.github.io)
+- 👨‍💻 All of my projects are available at [https://agrawalpratham.in/](https://agrawalpratham.in/)
 
-- 💬 Ask me about **React, Javascript, DSA**
+- 💬 Ask me about **React, Javascript, DSA, NextJs**
 
 - 📫 How to reach me **agrawalpratham2002@gmail.com**
 
 - ⚡ Fun fact **I think I am funny**
 <!-- - 📄 Know about my experiences <a href="https://drive.google.com/file/d/1iNVQkLeIHWy71WNi3fxIxnWlSWvoWSzr/view?usp=sharing">Resume</a> -->
 
-- <a href="https://pratham2002.github.io">Portfolio</a>
+- <a href="https://agrawalpratham.in">Portfolio</a>
 
 <!-- <img width="45%" align="top"  alt="Github Header" src="https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" /> -->
 <h3 align="left">Languages and Tools:</h3>
