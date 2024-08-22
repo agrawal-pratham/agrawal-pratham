@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, JavaScript, DSA, Next.js**
 
-- 📫 How to reach me **agrawalpratham2002@gmail.com**
+- 📫 How to reach me **pratham@agrawalpratham.in**
 
 - ⚡ Fun fact: **I love coding so much that I sometimes dream in JavaScript!**
 
